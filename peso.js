@@ -10,7 +10,7 @@ do {
   esNumero = !isNaN(peso) && peso !== '';
 
   if (!esNumero) {
-    alert("No ingresaste un valor válido para el peso. Inténtalo de nuevo.");
+    alert("Ingresa un peso valido.");
   } else {
     alert("Tu peso es: " + peso);
   }
