@@ -12,7 +12,7 @@ do {
   if (!esNumero) {
     alert("Ingresa un peso valido.");
   } else {
-    alert("Tu peso es: " + peso);
+    alert("Tu peso es: " + peso + "kg");
   }
 
   alert("Gracias!");
